@@ -6,5 +6,4 @@ mute lluvia
 } 
 else 
 { Print " shhh off , no llovio " }
-cum
 
